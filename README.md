@@ -8,6 +8,5 @@ I have experience developing applications with Angular, JavaScript, C# and PHP, 
 
 I am currently working as a Web Developer making high quality, user friendly web pages using JavaScript and .NET.
 
-If you want to work together on a project, feel free to reach out and I'd be happy to help and work together as best we can! 
 
 Thanks for checking me out! :)
